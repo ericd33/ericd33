@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericd33
 - 👀 I’m interested in getting hired as a programmer!
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me: ericdaniele34@gmail.com
