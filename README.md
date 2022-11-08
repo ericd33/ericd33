@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me: ericdaniele34@gmail.com
+- 💼 Portfolio: https://ericdaniele.vercel.app
