@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @ericd33
-- 👀 I’m interested in getting hired as a programmer!
-- 🌱 I’m currently learning Backend
+- 👋 Hi, I’m @ericd33, your fellow Typescript developer
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me: ericdaniele34@gmail.com
-- 💼 Portfolio: https://ericdaniele.vercel.app
